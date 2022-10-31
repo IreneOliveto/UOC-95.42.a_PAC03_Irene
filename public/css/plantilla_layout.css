@@ -184,7 +184,7 @@ footer{display:flex;justify-content: space-around;}
 
 
 /* ------------------ CONTENTS HOME --------------------------- */
-.mainHome {}
+.mainHome {padding: 20px;}
 .mainHome h1 {color: var(--font_color) ; background-color: var(--bg_color);}
 /* ------------------------------------------------------------ */
 
